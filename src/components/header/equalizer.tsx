@@ -1,0 +1,45 @@
+export function Equalizer() {
+  return (
+    <svg
+      width={29}
+      height={27}
+      viewBox="0 0 29 28"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <rect
+        opacity={0.3}
+        x={15.7083}
+        y={4.961}
+        width={3.625}
+        height={18.0779}
+        rx={1.8125}
+        fill="#fff"
+      />
+      <rect
+        x={9.66669}
+        y={10.6104}
+        width={3.625}
+        height={12.4286}
+        rx={1.8125}
+        fill="#fff"
+      />
+      <rect
+        x={21.75}
+        y={12.8701}
+        width={3.625}
+        height={10.1688}
+        rx={1.8125}
+        fill="#fff"
+      />
+      <rect
+        x={3.625}
+        y={15.1299}
+        width={3.625}
+        height={7.90909}
+        rx={1.8125}
+        fill="#fff"
+      />
+    </svg>
+  )
+}
